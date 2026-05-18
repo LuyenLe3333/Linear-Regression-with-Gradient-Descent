@@ -7,6 +7,7 @@ import java.util.ArrayList;
 
 /******************************************
 Name:           Luyen Le
+Problem Set:    Problem Set 3
  ******************************************/
 
 public class PS3Le {
